@@ -24,7 +24,7 @@ Ready!
 
 You can make a cutpaste image as follows.
 
-```Pthon
+```Python
 # cut patch from an original image
 patch = cut_patch(sample_img)
 # make a cutpaste image
