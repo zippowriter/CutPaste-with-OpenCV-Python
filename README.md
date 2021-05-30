@@ -33,6 +33,6 @@ paste = paste_patch(sample_img, patch=patch, rot=60, ratio=1)
 
 # Example
 ### Original Image
-![sample_img](https://user-images.githubusercontent.com/58351444/120101832-0db87100-c183-11eb-9eaa-17b755ef772b.jpeg)
+![sample_img](https://user-images.githubusercontent.com/58351444/120102059-3ee57100-c184-11eb-9b84-f9d88fdaeaa9.jpeg)
 ### CutPaste Image
 ![sample_cutpaste](https://user-images.githubusercontent.com/58351444/120101860-36d90180-c183-11eb-909d-3ad7f71af3c7.jpeg)
