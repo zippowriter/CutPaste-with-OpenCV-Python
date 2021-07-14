@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i"
+			],
+			[
+				"delse",
+				"delete_first"
+			],
+			[
+				"de",
+				"dequeue"
+			],
+			[
+				"pri",
+				"print_result"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"small",
+				"small_i"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"b",
+				"B"
+			],
+			[
+				"conv",
+				"conv_2"
+			],
+			[
+				"B",
+				"B"
+			],
+			[
+				"dit",
+				"digit_sum"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Traditional"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Theme",
+				"UI: Select Theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hkono/ds_env/ds_python/cutpaste"
+	],
+	"file_history":
+	[
+		"/Users/hkono/ds_env/ds_python/cutpaste/srcs/CutPaste.py",
+		"/Users/hkono/ds_env/ds_python/cutpaste/main.py",
+		"/Users/hkono/ds_env/ds_python/cutpaste/CutPaste.sublime-project",
+		"/Users/hkono/ds_env/ds_python/cutpaste/CutPaste.py",
+		"/Users/hkono/ds_env/ds_python/cutpaste/.sublime-project",
+		"/Users/hkono/ds_env/ds_python/cutpaste/.gitignore",
+		"/Users/hkono/cutpaste/CutPaste.py",
+		"/CutPaste.py",
+		"/Users/hkono/Desktop/intern/exawizards/resume/resume.tex",
+		"/Users/hkono/Desktop/intern/resume/resume.tex",
+		"/Users/hkono/Desktop/intern/resume/test.py",
+		"/Users/hkono/Downloads/NeurIPS-2020-differentiable-augmentation-for-data-efficient-gan-training-Bibtex.bib",
+		"/Users/hkono/Downloads/train (2).cache",
+		"/Users/hkono/Downloads/train (1).cache",
+		"/Users/hkono/algorithms/chap03/shell_sort.c",
+		"/Users/hkono/algorithms/.gitignore",
+		"/Users/hkono/algorithms/chap04/stack.c",
+		"/Users/hkono/algorithms/chap04/queue.c",
+		"/Users/hkono/algorithms/chap04/doubly_linked_list.c",
+		"/Users/hkono/algorithms/chap04/areas_on_the_csd.c",
+		"/Users/hkono/algorithms/chap03/stable_sort.c",
+		"/Users/hkono/algorithms/chap03/selection_sort.c",
+		"/Users/hkono/algorithms/chap03/bubble_sort.c",
+		"/Users/hkono/algorithms/chap03/insertion_sort.c",
+		"/Users/hkono/algorithms/chap02/maximum_profit.c",
+		"/Users/hkono/AtCoder/arc119/A.c",
+		"/Users/hkono/java/task2.java",
+		"/Users/hkono/java/Quadratic_Equation.java",
+		"/Users/hkono/Desktop/intern/pfn/subjects/coding_task/task_2.py",
+		"/Users/hkono/AtCoder/abc200_Kyosera/A.c",
+		"/Users/hkono/AtCoder/abc200_Kyosera/B.c",
+		"/Users/hkono/AtCoder/abc200_Kyosera/C.c",
+		"/Users/hkono/Desktop/intern/pfn/subjects/coding_task/main.py",
+		"/Users/hkono/AtCoder/abs/traveling.c",
+		"/Users/hkono/Desktop/intern/pfn/subjects/survey.tex",
+		"/Users/hkono/AtCoder/abs/hakuchu-mu.c",
+		"/Users/hkono/AtCoder/abs/product.c",
+		"/Users/hkono/AtCoder/abs/welcom_to_atcoder.c",
+		"/Users/hkono/AtCoder/abs/some_sums.c",
+		"/Users/hkono/AtCoder/abs/shift_only.c",
+		"/Users/hkono/AtCoder/abs/placing_marbles.c",
+		"/Users/hkono/AtCoder/abs/otoshidama.c",
+		"/Users/hkono/AtCoder/abs/coins.c",
+		"/Users/hkono/AtCoder/abs/kagami_mochi.c",
+		"/Users/hkono/AtCoder/abs/card_games_for_two.c",
+		"/Users/hkono/AtCoder/abs/B.c",
+		"/Users/hkono/AtCoder/abs/A.c",
+		"/Users/hkono/42tokyo/level3/ft_server/Dockerfile",
+		"/Users/hkono/42tokyo/level3/ft_server/srcs/service_start.sh",
+		"/Users/hkono/42tokyo/test.c",
+		"/Users/hkono/Library/Application Support/Sublime Text 3/Packages/42 Headers/headers/__init__.py",
+		"/test.c",
+		"/Users/hkono/42tokyo/level2/ft_printf/ft_printf.c",
+		"/Users/hkono/42tokyo/level2/ft_printf/src/write_format.c",
+		"/Users/hkono/42tokyo/level2/ft_printf/src/width_and_prec_number.c",
+		"/Users/hkono/Library/Application Support/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/hkono/LaTeXtest/test.tex"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "CutPaste.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

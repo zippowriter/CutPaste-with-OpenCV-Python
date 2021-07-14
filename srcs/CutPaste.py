@@ -3,19 +3,21 @@ import rondom
 import cv2
 import numpy
 
+
 def cut_patch(img):
     img_height, img_width, _ = img.shape
     top = random.randrange(0, round(img_height))
-    bottom = top + random.randrange(round(img_height*0.05),
-                                            round(img_height*0.15))
+    bottom = top + random.randrange(round(img_height * 0.05),
+                                    round(img_height * 0.15))
     left = random.randrange(0, round(img_width))
-    right = left + random.randrange(round(img_width*0.05),
-                                            round(img_width*0.15))
+    right = left + random.randrange(round(img_width * 0.05),
+                                    round(img_width * 0.15))
     if (bottom - top) % 2 == 1:
         bottom -= 1
     if (right - left) % 2 == 1:
         right -= 1
     return img[top:bottom, left:right, :]
+
 
 def paste_patch(img, patch, rot, ratio):
     img_height, img_width, _ = img.shape
@@ -47,7 +49,7 @@ def paste_patch(img, patch, rot, ratio):
     mask_inv = cv2.bitwise_not(mask)
     # cut the mask from original image
     back = cv2.bitwise_and(img, img, mask=mask_inv)
-    cut = cv2.bitwise_and(tmp_img, tmp_img, mask = mask)
+    cut = cv2.bitwise_and(tmp_img, tmp_img, mask=mask)
     # paste(combine original and patch)
     paste = cv2.add(back, cut)
     return paste
