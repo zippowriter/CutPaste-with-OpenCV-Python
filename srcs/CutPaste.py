@@ -1,7 +1,7 @@
-import rondom
+import random
 
 import cv2
-import numpy
+import numpy as np
 
 
 def cut_patch(img):
